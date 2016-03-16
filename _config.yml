@@ -1,7 +1,7 @@
 name: Loto
 favicon: null
-layout_spectrum: 0.7509094192646444
-typography_spectrum: 0.9171375602018088
+layout_spectrum: 0.24609
+typography_spectrum: 0.86345
 title: 'Loto, flor de Loto.'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#feffed'
+    - '#283a00'
+    - '#6a7b10'
+    - '#b48daf'
   brandStrength: 0.05176355061121285
   lightness: 0.445687796222046
   saturation: 0.601395309669897
